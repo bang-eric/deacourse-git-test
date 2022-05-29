@@ -1,4 +1,4 @@
-### DEACOURSE STARTER-TEMPLATE-WITH-NEW-AGE-LIB
+### BANGERIC-DEACOURSE-BELAJAR-GIT
 
-<p>projek ini hanya untuk kebutuhan online course yang diadakan tanggal 29 Mei 2022</p>
+<p>belajar git sama bang Dea tanggal 29 Mei 2022</p>
 <small><i>thanks a lot - credit to new-age theme</i></small>
